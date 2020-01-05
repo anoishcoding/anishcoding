@@ -33,7 +33,7 @@ may convey a sense of intelligence or thought of its own.<br>
 <meta charset="UTF-8">
 
 to know more <a href="https://en.wikipedia.org/wiki/Robot">click here</a><img src="atlas.jfif" alt="atlas" align="right">
-<img src="asimo.jfif" alt="asimo" align="left">
+<img src="C:\Users\meetk\Documents\print\google contest" alt="asimo" align="left">
 <table border="100">
 <TR>
 <TH>robot type</th>
